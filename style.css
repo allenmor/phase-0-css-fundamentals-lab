@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+nav {
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+#navcolor{
+  background-color: gray;
+}
+#caption {
+  text-align: center;
+  font-size: 12px;
+}
+#fppara {
+  text-align: center;
+  width: 800px; 
+  margin: 1cm auto 1cm;
+}
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
